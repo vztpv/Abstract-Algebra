@@ -6,7 +6,7 @@ CHAPTER 1: Definition of a group and a group homomorphism
 
     such that
 
-    (1) * is associative ( 결합법칙)  // semi group
+    (1) * is associative ( 결합법칙 )  // semi group
 
     (2) G의 원소인 E가 존재한다. s.t. G에 속한 모든 원소에 대해서, a * e = e * a = a (항등원) // monoid
 

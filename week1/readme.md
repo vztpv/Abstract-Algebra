@@ -10,7 +10,7 @@ CHAPTER 1: Definition of a group and a group homomorphism
 
     (2) G의 원소인 E가 존재한다. s.t. G에 속한 모든 원소에 대해서, a * e = e * a = a (항등원) // monoid
 
-    (3) G의 모든 원소 a에 대해서 역원이 존재한다. a*(a^-1) = (a^-1) *a = e 
+    (3) G의 모든 원소 a에 대해서 역원이 존재한다. a * (a^-1) = (a^-1) * a = e 
 
 
 [Abelian Group, Commutative Group]
